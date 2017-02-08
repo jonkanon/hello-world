@@ -1,6 +1,6 @@
 # hello-world
-Jon here, just trying to fugure this out.
+Jon here, just trying to figure this out.
 So far so good. 
 
 
-Or not?
+Or maybe not?
